@@ -1,17 +1,17 @@
 Disclaimer for SoloCell
 
-IMPORTANT: PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE USING THIS SOFTWARE.
+IMPORTANT: PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE USING THIS SOURCE CODE.
 
 By installing and using SoloCell ("SoloCell"), you acknowledge and agree to the following:
 
-1. The Software is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability or fitness for a particular purpose.
+1. The SOURCE CODE is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability or fitness for a particular purpose.
 
-2. The use of the Software is entirely at your own risk. The creators or distributors of the Software shall not be liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages, resulting from the use or inability to use the Software.
+2. The use of the SOURCE CODE is entirely at your own risk. The creators or distributors of the SOURCE CODE shall not be liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages, resulting from the use or inability to use the SOURCE CODE.
 
-3. This Software is the intellectual property of Muhammed Furkan Bayram, James Dressman, Anand Mehta/ Mehta Lab/MUSC and is protected by applicable copyright laws. Unauthorized copying, distribution, modification, or reselling of the Software is strictly prohibited.
+3. This SOURCE CODE is the intellectual property of Muhammed Furkan Bayram, James Dressman, Anand Mehta/ Mehta Lab/MUSC and is protected by applicable copyright laws. Unauthorized copying, distribution, modification, or reselling of the SOURCE CODE is strictly prohibited.
 
-4. You may not modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+4. You may not modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the SOURCE CODE.
 
-5. You may not rent, lease, lend, or sublicense the Software.
+5. You may not rent, lease, lend, or sublicense the SOURCE CODE.
 
-BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS DISCLAIMER.
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOURCE CODE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS DISCLAIMER.
