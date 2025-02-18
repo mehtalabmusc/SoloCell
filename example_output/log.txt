@@ -1,0 +1,95 @@
+02/16/25 20_05_41: Selected High Resolution Image: C:/Users/mfbyr/Jupyter/single_cell_detection/2024 02 14 jurkat single cell.jpg
+02/16/25 20_05_41: Result folder created successfully.
+02/16/25 20_05_41: Result folder:D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41
+02/16/25 20_05_51: Selected AI file:C:/Users/mfbyr/Jupyter/single_cell_detection/furkan_and_jake.keras
+02/16/25 20_05_52: AI module loaded successfully.
+02/16/25 20_05_55: Original image read successfully.
+02/16/25 20_05_55: Original image dimensions (height,width): 19312,31960
+02/16/25 20_06_00: Selected ROI coordinates in resized image (x1,y1,x2,y2): 823,146,1116,468
+02/16/25 20_06_00: Scale during ROI selection: 19.975
+02/16/25 20_06_00: Selected ROI coordinates in original image (x1,y1,x2,y2) will be converted to integer: 16439.425000000003,2916.3500000000004,22292.100000000002,9348.300000000001
+02/16/25 20_06_00: Circle size during reference selection will be 18
+02/16/25 20_06_13: Pressed s during reference selection.
+02/16/25 20_06_13: s press position in the original image: (18258, 8004)
+02/16/25 20_06_13: s press position in the showed window: (864, 486)
+02/16/25 20_06_14: Pressed s during reference selection.
+02/16/25 20_06_14: s press position in the original image: (18249, 8080)
+02/16/25 20_06_14: s press position in the showed window: (855, 562)
+02/16/25 20_06_15: Pressed s during reference selection.
+02/16/25 20_06_15: s press position in the original image: (18246, 8148)
+02/16/25 20_06_15: s press position in the showed window: (852, 630)
+02/16/25 20_06_16: Pressed s during reference selection.
+02/16/25 20_06_16: s press position in the original image: (18239, 8227)
+02/16/25 20_06_16: s press position in the showed window: (845, 709)
+02/16/25 20_06_17: Pressed s during reference selection.
+02/16/25 20_06_17: s press position in the original image: (18312, 8237)
+02/16/25 20_06_17: s press position in the showed window: (918, 719)
+02/16/25 20_06_17: Pressed s during reference selection.
+02/16/25 20_06_17: s press position in the original image: (18322, 8159)
+02/16/25 20_06_17: s press position in the showed window: (928, 641)
+02/16/25 20_06_18: Pressed s during reference selection.
+02/16/25 20_06_18: s press position in the original image: (18326, 8074)
+02/16/25 20_06_18: s press position in the showed window: (932, 556)
+02/16/25 20_06_23: Pressed s during reference selection.
+02/16/25 20_06_23: s press position in the original image: (18399, 8087)
+02/16/25 20_06_23: s press position in the showed window: (1005, 569)
+02/16/25 20_06_29: Pressed s during reference selection.
+02/16/25 20_06_29: s press position in the original image: (18724, 2964)
+02/16/25 20_06_29: s press position in the showed window: (1330, 771)
+02/16/25 20_06_30: Pressed d during reference selection.
+02/16/25 20_06_30: d press position in the original image: (18686, 3690)
+02/16/25 20_06_30: d press position in the showed window: (18686, 3690)
+02/16/25 20_06_30: Pressed d during reference selection.
+02/16/25 20_06_30: d press position in the original image: (18669, 4152)
+02/16/25 20_06_30: d press position in the showed window: (18669, 4152)
+02/16/25 20_06_31: Pressed d during reference selection.
+02/16/25 20_06_31: d press position in the original image: (18650, 4625)
+02/16/25 20_06_31: d press position in the showed window: (18650, 4625)
+02/16/25 20_06_32: Pressed d during reference selection.
+02/16/25 20_06_32: d press position in the original image: (18608, 5315)
+02/16/25 20_06_32: d press position in the showed window: (18608, 5315)
+02/16/25 20_06_33: Pressed d during reference selection.
+02/16/25 20_06_33: d press position in the original image: (18583, 5935)
+02/16/25 20_06_33: d press position in the showed window: (18583, 5935)
+02/16/25 20_06_34: Pressed d during reference selection.
+02/16/25 20_06_34: d press position in the original image: (18535, 6624)
+02/16/25 20_06_34: d press position in the showed window: (18535, 6624)
+02/16/25 20_06_35: Pressed d during reference selection.
+02/16/25 20_06_35: d press position in the original image: (18519, 7253)
+02/16/25 20_06_35: d press position in the showed window: (18519, 7253)
+02/16/25 20_06_35: Pressed d during reference selection.
+02/16/25 20_06_35: d press position in the original image: (18488, 8076)
+02/16/25 20_06_35: d press position in the showed window: (18488, 8076)
+02/16/25 20_06_37: Pressed s during reference selection.
+02/16/25 20_06_37: s press position in the original image: (18416, 9146)
+02/16/25 20_06_39: Average distance in between cells: 77
+02/16/25 20_06_39: arctan of the angle: -87.14776441870747
+02/16/25 20_06_39: Slope: -20.071428571428573
+02/16/25 20_06_39: slope is negative and angle is 87.14776441870747
+02/16/25 20_06_39: angle is bigger than 45
+02/16/25 20_06_39: The angle for rotating the image clockwise: 2.8522355812925326
+02/16/25 20_06_39: Image pre-processing....
+02/16/25 20_06_45: Image contrasted
+02/16/25 20_07_05: Contrasted image saved for the next step: D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41/contrasted_image.png
+02/16/25 20_07_09: Contrasted image read again for cv2 and preprocessing has been completed.
+02/16/25 20_07_09: Original image rotated for frame detections.
+02/16/25 20_07_09: Frame detections and AI evaluation will be simultaneously calculated.
+02/16/25 20_09_59: Frame evaluation completed successfully.
+02/16/25 20_09_59: AI result for all frames will be saved.
+02/16/25 20_09_59: AI result for frames saved: D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41/Solo Cell Result_All_Frames.xlsx
+02/16/25 20_09_59: Preparing Histogram for confidence selection.
+02/16/25 20_10_33: User selection for confidence level is completed. Selected confidence value is 0.5
+02/16/25 20_10_33: The histogram is saved successfully.
+02/16/25 20_10_33: Frames are filtrated by the selected confidence.
+02/16/25 20_10_33: Path optimization is in progress...
+02/16/25 20_10_33: Snake Algorithm Total Distance: 458623.1302612612
+02/16/25 20_10_33: Nearest Neighbor Algorithm Total Distance: 261092.4061010242
+02/16/25 20_10_35: Cluster First Nearest Neighbor Algorithm Total Distance: 272015.10474748065
+02/16/25 20_10_35: Nearest Neighbor Algorithm is the Fastest. 56.99999999999999% Faster Than Snake Algorithm
+02/16/25 20_10_35: Filtrated and ordered coordinates are saved successfully (number,x,y): D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41/Selected Coordinates.txt
+02/16/25 20_10_35: AI result for selected frames will be saved.
+02/16/25 20_10_35: AI result for frames saved: D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41/Selected_Coordinates.xlsx
+02/16/25 20_10_35: Creating original image with selected frames...
+02/16/25 20_10_38: Font scale for the frame numbers will be 0.4.
+02/16/25 20_10_42: Original image with selected coordinates is saved successfully: D:/important/MUSC/MehtaLab/SoloCell/V7/example_result/2024 02 14 jurkat single cell.jpg-02_16_25-20_05_41/Selected_Frames.png
+02/16/25 20_10_42: SoloCell completed successfully!
